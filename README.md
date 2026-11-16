@@ -139,10 +139,3 @@
 **Aprendizaje continuo · Soporte técnico · Redes · Ciberseguridad**
 
 </div>
----
-
-<div align="center">
-
-**Aprendizaje continuo · Soporte técnico · Redes · Ciberseguridad**
-
-</div>
