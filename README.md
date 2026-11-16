@@ -10,102 +10,102 @@
 </pre>
 
 
-### Técnico en Sistemas | Estudiante de Ingeniería de Sistemas
+### Systems Technician | Systems Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivian-natalia-monta%C3%B1o-olaya-448a09360)
 [![GitHub](https://img.shields.io/badge/GitHub-Vivianett-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivianett)
 
-[![GitHub followers](https://img.shields.io/github/followers/Vivianett?style=for-the-badge&logo=github&label=Seguidores&color=6DB33F)](https://github.com/Vivianett)
+[![GitHub followers](https://img.shields.io/github/followers/Vivianett?style=for-the-badge&logo=github&label=Followers&color=6DB33F)](https://github.com/Vivianett)
 [![Profile views](https://komarev.com/ghpvc/?username=Vivianett&style=for-the-badge&color=6DB33F)](https://github.com/Vivianett)
 
 ---
 
-## Sobre mí
+## About me
 
 | | |
 |:--|:--|
-| **Perfil** | Técnico en Sistemas y estudiante de 5.º semestre de Ingeniería de Sistemas. |
-| **Experiencia** | 6 meses de experiencia práctica en mantenimiento preventivo/correctivo, soporte técnico presencial y administración de redes LAN. |
-| **Intereses** | Ciberseguridad, redes, soporte N1/N2 y desarrollo de software con Java y Python. |
-| **Certificación** | Network Security — Cisco. |
-| **Idiomas** | Español nativo; inglés A1 en mejora continua, con meta B1. |
-| **Objetivo** | Fortalecer mis conocimientos en redes, ciberseguridad y desarrollo de software mientras continúo mi formación profesional. |
+| **Profile** | Systems Technician and 5th-semester Systems Engineering student. |
+| **Experience** | 6 months of hands-on experience in preventive/corrective maintenance, on-site technical support, and LAN administration. |
+| **Interests** | Cybersecurity, networking, N1/N2 support, and software development with Java and Python. |
+| **Certification** | Network Security — Cisco. |
+| **Languages** | Native Spanish; English A1 (improving, goal: B1). |
+| **Objective** | Strengthen my knowledge in networking, cybersecurity, and software development while continuing my professional training. |
 
-> Técnico en Sistemas y estudiante de Ingeniería de Sistemas, con experiencia en mantenimiento de equipos de cómputo y conocimientos en redes, programación en Java y Python, e interés en ciberseguridad y aprendizaje continuo.
+> Systems Technician and Systems Engineering student with experience in computer equipment maintenance and knowledge in networking, Java and Python programming, and an interest in cybersecurity and continuous learning.
 
 ---
 
-## Habilidades
+## Skills
 
-**Programación**
+**Programming**
 
-![Java](https://img.shields.io/badge/Java-Intermedio-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermedio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Conocimientos-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Knowledge-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Bases de datos**
+**Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-B%C3%A1sico-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B%C3%A1sico-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Basic-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Sistemas operativos**
+**Operating Systems**
 
 ![Windows](https://img.shields.io/badge/Windows-7%2F10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**Soporte y redes**
+**Support & Networking**
 
-![Hardware](https://img.shields.io/badge/Hardware-Diagn%C3%B3stico-607D8B?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
-![Mantenimiento](https://img.shields.io/badge/Mantenimiento-Preventivo%2FCorrectivo-795548?style=for-the-badge&logo=tools&logoColor=white)
-![Soporte](https://img.shields.io/badge/Soporte_T%C3%A9cnico-N1%2FN2-0A66C2?style=for-the-badge&logo=helpdesk&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-LAN%2FTCP--IP-009688?style=for-the-badge&logo=cisco&logoColor=white)
-![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-Inter%C3%A9s-000000?style=for-the-badge&logo=security&logoColor=white)
-
----
-
-## Proyectos
-
-> Mis proyectos académicos y personales de Java y Python están publicados en GitHub. Allí encontrarás ejercicios, prácticas y soluciones desarrolladas durante mi formación.
-
-[![Ver repositorios](https://img.shields.io/badge/Ver_repositorios_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivianett)
+![Hardware](https://img.shields.io/badge/Hardware-Diagnostics-607D8B?style=for-the-badge&logo=pcgamingwiki&logoColor=white)
+![Maintenance](https://img.shields.io/badge/Maintenance-Preventive%2FCorrective-795548?style=for-the-badge&logo=tools&logoColor=white)
+![Support](https://img.shields.io/badge/Tech_Support-N1%2FN2-0A66C2?style=for-the-badge&logo=helpdesk&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-LAN%2FTCP--IP-009688?style=for-the-badge&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Interest-000000?style=for-the-badge&logo=security&logoColor=white)
 
 ---
 
-## Experiencia laboral
+## Projects
 
-### Técnico de Soporte y Mantenimiento Informático
-**Junio 2025 – Enero 2026**
+> My academic and personal Java and Python projects are published on GitHub. There you will find exercises, practices, and solutions developed during my training.
 
-- Realicé mantenimiento preventivo y correctivo de equipos de cómputo, incluyendo limpieza interna, cambio de componentes dañados, actualización de sistemas operativos y optimización de rendimiento.
-- Brindé soporte técnico presencial para resolver fallos de hardware, software y periféricos (impresoras, escáneres), garantizando la continuidad operativa.
-- Configuré y administré la red LAN local (asignación de IPs, configuración de routers y puntos de acceso) para asegurar una conectividad estable.
-- Diagnostiqué y solucioné incidencias relacionadas con virus y software malicioso, aplicando medidas de seguridad básicas.
-- Elaboré reportes técnicos de las intervenciones realizadas y documenté procedimientos para futuras referencias.
+[![View repositories](https://img.shields.io/badge/View_repositories_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vivianett)
 
 ---
 
-## Educación
+## Work Experience
 
-| Formación | Detalle |
+### IT Support and Maintenance Technician
+**June 2025 – January 2026**
+
+- Performed preventive and corrective maintenance on computer equipment, including internal cleaning, replacement of damaged components, operating system updates, and performance optimization.
+- Provided on-site technical support to resolve hardware, software, and peripheral (printers, scanners) issues, ensuring business operational continuity.
+- Configured and administered the local LAN (IP assignment, router and access point configuration) to ensure stable connectivity.
+- Diagnosed and resolved incidents related to viruses and malicious software, applying basic security measures.
+- Created technical reports of the interventions performed and documented procedures for future reference.
+
+---
+
+## Education
+
+| Degree | Details |
 |:--|:--|
-| **Ingeniería de Sistemas** | En curso — 5.º semestre. Finalización estimada: 2029 |
-| **Técnico en Sistemas** | Graduada. Promedio: 4.5/5.0 |
+| **Systems Engineering** | In progress — 5th semester. Estimated completion: 2029 |
+| **Systems Technician** | Graduated. GPA: 4.5/5.0 |
 
-**Formación complementaria:** mantenimiento de hardware/software, redes LAN, soporte a usuarios, programación en Java y Python, y administración de bases de datos SQL.
+**Additional training:** hardware/software maintenance, LAN networking, user support, Java and Python programming, and SQL database administration.
 
 ---
 
-## Certificaciones
+## Certifications
 
 ![Cisco Network Security](https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Técnico en Sistemas](https://img.shields.io/badge/T%C3%A9cnico_en_Sistemas-39A900?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Systems Technician](https://img.shields.io/badge/Systems_Technician-39A900?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ---
 
-## Idiomas
+## Languages
 
-![Español](https://img.shields.io/badge/Espa%C3%B1ol-Nativo-DC143C?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Inglés](https://img.shields.io/badge/Ingl%C3%A9s-A1_en_mejora_%2F_meta_B1-3C3B6E?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-Native-DC143C?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-A1_improving_%2F_goal_B1-3C3B6E?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
@@ -123,7 +123,7 @@
 </pre>
 ---
 
-## Contacto
+## Contact
 
 <div align="center">
 
