@@ -123,27 +123,13 @@
 
 ---
 
-## GitHub Stats
+## Contribution Snake
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivianett&show_icons=true&theme=github_dark&hide_border=true&locale=es)](https://github.com/Vivianett)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianett&layout=compact&theme=github_dark&hide_border=true&locale=es&langs_count=6)](https://github.com/Vivianett)
-
-[![GitHub streak](https://streak-stats.demolab.com/?user=Vivianett&theme=dark&hide_border=true&locale=es)](https://github.com/Vivianett)
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivianett&theme=github-dark&hide_border=true&area=true)](https://github.com/Vivianett)
-
-</div>
-
-<!-- Si configuras la GitHub Action de la serpiente de contribuciones, puedes descomentar:
 <div align="center">
 
 ![snake](https://raw.githubusercontent.com/Vivianett/Vivianett/output/github-contribution-grid-snake-dark.svg)
 
 </div>
--->
 
 ---
 
@@ -162,73 +148,5 @@
 <div align="center">
 
 **Aprendizaje continuo · Soporte técnico · Redes · Ciberseguridad**
-
-</div>dge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-
-Soporte y redes
-
-https://img.shields.io/badge/Hardware-Diagn%C3%B3stico-607D8B?style=for-the-badge&logo=pcgamingwiki&logoColor=white
-https://img.shields.io/badge/Mantenimiento-Preventivo%2FCorrectivo-795548?style=for-the-badge&logo=tools&logoColor=white
-https://img.shields.io/badge/Soporte_T%C3%A9cnico-N1%2FN2-0A66C2?style=for-the-badge&logo=helpdesk&logoColor=white
-https://img.shields.io/badge/Redes-LAN%2FTCP--IP-009688?style=for-the-badge&logo=cisco&logoColor=white
-https://img.shields.io/badge/Ciberseguridad-Inter%C3%A9s-000000?style=for-the-badge&logo=security&logoColor=white
-
-Proyectos
-Mis proyectos académicos y personales de Java y Python están publicados en GitHub. Allí encontrarás ejercicios, prácticas y soluciones desarrolladas durante mi formación.
-
-https://img.shields.io/badge/Ver_repositorios_en_GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-
-Experiencia laboral
-Técnico de Soporte y Mantenimiento Informático
-Negocio Local / Cliente Privado — Buenaventura
-Junio 2025 – Enero 2026
-
-Realicé mantenimiento preventivo y correctivo de equipos de cómputo, incluyendo limpieza interna, cambio de componentes dañados, actualización de sistemas operativos y optimización de rendimiento.
-
-Brindé soporte técnico presencial para resolver fallos de hardware, software y periféricos (impresoras, escáneres), garantizando la continuidad operativa del negocio.
-
-Configuré y administré la red LAN local (asignación de IPs, configuración de routers y puntos de acceso) para asegurar una conectividad estable.
-
-Diagnostiqué y solucioné incidencias relacionadas con virus y software malicioso, aplicando medidas de seguridad básicas.
-
-Elaboré reportes técnicos de las intervenciones realizadas y documenté procedimientos para futuras referencias.
-
-Educación
-Formación	Institución	Detalle
-Ingeniería de Sistemas	Universidad del Pacífico	En curso — 5.º semestre. Finalización estimada: 2029
-Técnico en Sistemas	SENA — Centro Agropecuario de Buga	Noviembre 2023. Promedio: 4.5/5.0
-Formación complementaria: mantenimiento de hardware/software, redes LAN, soporte a usuarios, programación en Java y Python, y administración de bases de datos SQL.
-
-Certificaciones
-https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white
-https://img.shields.io/badge/SENA-T%C3%A9cnico_en_Sistemas-39A900?style=for-the-badge&logo=googlescholar&logoColor=white
-
-Idiomas
-https://img.shields.io/badge/Espa%C3%B1ol-Nativo-DC143C?style=for-the-badge&logo=googletranslate&logoColor=white
-https://img.shields.io/badge/Ingl%C3%A9s-A1_en_mejora_%2F_meta_B1-3C3B6E?style=for-the-badge&logo=googletranslate&logoColor=white
-
-GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Vivianett&show_icons=true&theme=github_dark&hide_border=true&locale=es
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianett&layout=compact&theme=github_dark&hide_border=true&locale=es&langs_count=6
-
-https://streak-stats.demolab.com/?user=Vivianett&theme=dark&hide_border=true&locale=es
-
-https://github-readme-activity-graph.vercel.app/graph?username=Vivianett&theme=github-dark&hide_border=true&area=true
-
-</div><!-- Si configuras la GitHub Action de la serpiente de contribuciones, puedes descomentar: <div align="center"> ![snake](https://raw.githubusercontent.com/Vivianett/Vivianett/output/github-contribution-grid-snake-dark.svg) </div> -->
-Contacto
-<div align="center">
-https://img.shields.io/badge/LinkedIn-Vivian_Natalia_Monta%C3%B1o_Olay%C3%A1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Vivianett-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-vnmontano%40unipacifico.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-</div>
-<div align="center">
-Aprendizaje continuo · Soporte técnico · Redes · Ciberseguridad
-
-</div> ```
-[![GitHub](https://img.shields.io/badge/FerLpz55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerLpz55)
 
 </div>
