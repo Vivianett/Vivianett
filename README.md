@@ -9,7 +9,6 @@
   ╚═══╝   ╚═╝   ╚═══╝   ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚══════╝    ╚═╝       ╚═╝   
 </pre>
 
-# Vivian Natalia Montaño Olaya
 
 ### Técnico en Sistemas | Estudiante de Ingeniería de Sistemas
 
